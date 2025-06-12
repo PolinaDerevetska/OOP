@@ -1,0 +1,15 @@
+/Users/polina/Desktop/ООП/lab_13/bin/Debug/net7.0/lab_13
+/Users/polina/Desktop/ООП/lab_13/bin/Debug/net7.0/lab_13.deps.json
+/Users/polina/Desktop/ООП/lab_13/bin/Debug/net7.0/lab_13.runtimeconfig.json
+/Users/polina/Desktop/ООП/lab_13/bin/Debug/net7.0/lab_13.dll
+/Users/polina/Desktop/ООП/lab_13/bin/Debug/net7.0/lab_13.pdb
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.csproj.AssemblyReference.cache
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.AssemblyInfoInputs.cache
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.AssemblyInfo.cs
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.dll
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/refint/lab_13.dll
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.pdb
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/lab_13.genruntimeconfig.cache
+/Users/polina/Desktop/ООП/lab_13/obj/Debug/net7.0/ref/lab_13.dll

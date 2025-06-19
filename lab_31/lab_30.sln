@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_31", "lab_31\lab_31.csproj", "{0CA15099-C0FD-4D10-8B85-FB192EE9E1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_30", "..\lab_30\lab_30.csproj", "{481FF137-31F7-4906-8C50-DDD37959DDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_32", "..\lab_32\lab_32.csproj", "{D142C384-45BD-4814-B42B-BCA12DCD62AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA15099-C0FD-4D10-8B85-FB192EE9E1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA15099-C0FD-4D10-8B85-FB192EE9E1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA15099-C0FD-4D10-8B85-FB192EE9E1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA15099-C0FD-4D10-8B85-FB192EE9E1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481FF137-31F7-4906-8C50-DDD37959DDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481FF137-31F7-4906-8C50-DDD37959DDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481FF137-31F7-4906-8C50-DDD37959DDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481FF137-31F7-4906-8C50-DDD37959DDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D142C384-45BD-4814-B42B-BCA12DCD62AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D142C384-45BD-4814-B42B-BCA12DCD62AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D142C384-45BD-4814-B42B-BCA12DCD62AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D142C384-45BD-4814-B42B-BCA12DCD62AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038B13F6-D9F8-4ECE-A779-45068AAB5542}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		BaseDirectory = .
+		Policies = $0
+		$0.StandardHeader = $1
+	EndGlobalSection
+EndGlobal
